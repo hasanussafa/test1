@@ -1,0 +1,2 @@
+ip-68.183.192.214:~$ nmap google.com
+

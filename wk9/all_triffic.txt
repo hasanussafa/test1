@@ -1,0 +1,2 @@
+tcpdump -i eth0 icmp -w all_traffic_20220309_1537.pcap
+tcpdump -r all_traffic_20220309_1537.pcap

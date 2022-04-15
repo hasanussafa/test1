@@ -1,0 +1,4 @@
+1. When write any valid word and press search button, browser showed word meaning. 
+2. For invalid word browser showed  a message like "No results found for ..." 
+3. It showed many hello results
+4. Showed many hello results

@@ -1,0 +1,31 @@
+1) What is the definition of server port?
+
+Ans: Server ports are the logical endpoints of a network connection that is used to exchange information between a client and a server. 
+
+2) What is server port range?
+
+Ans: Port numbers can run from 0 to 65353
+
+3) How many bits does number above represent?
+
+Ans: 15 bits
+
+4) State 10 common server ports
+
+HTTP – Port 80
+HTTPS – 443
+FTP – 21
+FTPS / SSH – 22
+cPanel – 2082
+cPanel SSL – 2083
+IMAP – 143
+IMAP SSL – 993
+SMTP SSL – 587
+MySQL – 3306
+
+
+_______________________________________________
+Explanation(s)
+_______________________________________________
+bits		5		4		3		2		1
+max vals	32		16		8	

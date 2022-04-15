@@ -1,0 +1,38 @@
+Domain Name: utoronto.ca
+
+IP Address: 128.100.166.120
+
+Geolocation: CA (Canada), ON, Ontario, M5S Toronto - Google Maps
+
+-------------------------------------------------------------------
+
+Domain Name: bestbuy.com
+
+IP Address: 23.221.200.50
+
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+
+------------------------------------------------------------------
+
+Domain Name: yahoo.com
+
+IP Address: 74.6.143.26
+
+Geolocation: US (United States), CA, California, 94089 Sunnyvale - Google Maps
+
+
+---------------------------------------------------------------------
+
+Domain Name: ibm.com
+
+IP Address: 104.107.11.185
+
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+
+--------------------------------------------------------------
+
+Domain Name: starbucks.ca
+
+IP Address: 104.107.29.106
+
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps

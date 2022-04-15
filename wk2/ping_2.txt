@@ -1,0 +1,13 @@
+Safa@DESKTOP-8VQ8DGT MINGW64 ~ (main)
+$ ping google.com
+
+Pinging google.com [2607:f8b0:400b:804::200e] with 32 bytes of data:
+Reply from 2607:f8b0:400b:804::200e: time=17ms
+Reply from 2607:f8b0:400b:804::200e: time=15ms
+Reply from 2607:f8b0:400b:804::200e: time=15ms
+Reply from 2607:f8b0:400b:804::200e: time=16ms
+
+Ping statistics for 2607:f8b0:400b:804::200e:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 15ms, Maximum = 17ms, Average = 15ms

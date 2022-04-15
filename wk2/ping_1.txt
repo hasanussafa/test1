@@ -1,0 +1,16 @@
+Safa@DESKTOP-8VQ8DGT MINGW64 ~ (main)
+$ ping 68.183.192.214
+
+Pinging 68.183.192.214 with 32 bytes of data:
+Reply from 68.183.192.214: bytes=32 time=20ms TTL=55
+Reply from 68.183.192.214: bytes=32 time=17ms TTL=55
+Reply from 68.183.192.214: bytes=32 time=17ms TTL=55
+Reply from 68.183.192.214: bytes=32 time=15ms TTL=55
+
+Ping statistics for 68.183.192.214:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 15ms, Maximum = 20ms, Average = 17ms
+
+//ssh root@68.183.192.214
+//ping 68.183.192.214
